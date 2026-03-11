@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "126331710924",
+    "project_id": "airy-phalanx-443204-k3",
+    "storage_bucket": "airy-phalanx-443204-k3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:126331710924:android:3a6a5369d6b1e53c688169",
+        "android_client_info": {
+          "package_name": "mobilecontrol.kg"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqJ2EQHFc48mIql-bTFAFg-0ykM1zG-1U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
